@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++, C and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-     Phone Number:- (+91) 9109825975
-     Email:- pm72431@gmail.com
+     Phone Number:- (+91) 9109825975 ||
+     Email:- pm72431@gmail.com ||
      LinkedIn Profile:- www.linkedin.com/in/priyanshu-mishra-13m16p
 
 <!---
