@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Priyanshu1620
+- 👋 Hi Everyone! I’m @Priyanshu1620.
 - 👀 I’m interested in learning and exploring new skills and upgrading my coding skills.
-- 🌱 I’m currently learning C++, C and Python.
-- 💞️ I’m looking to collaborate on ...
+-  I would also like to deep dive in the vast world of Computer Science.
+- 🌱 Currently ,I'm learning C, C++ and Python.
+- 💞️ I’m looking to collaborate on different basic projects as a beginner.
 - 📫 How to reach me ...
-     Phone Number:- (+91) 9109825975 ||
-     Email:- pm72431@gmail.com ||
+ 
+     Phone Number:- (+91) 9109825975 
+  
+     Email:- pm72431@gmail.com 
+  
      LinkedIn Profile:- www.linkedin.com/in/priyanshu-mishra-13m16p
 
 <!---
