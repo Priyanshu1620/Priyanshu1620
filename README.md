@@ -11,6 +11,8 @@
   
      LinkedIn Profile:- www.linkedin.com/in/priyanshu-mishra-13m16p
 
+     Linktree url: https://linktr.ee/priyanshu_mishra13
+
 <!---
 Priyanshu1620/Priyanshu1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
